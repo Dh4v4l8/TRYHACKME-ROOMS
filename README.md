@@ -51,9 +51,9 @@
 
 ## Linux Fundamentals [5/5]
 - [x] TryHackMe | Linux Modules
-- [x] TryHackMe | Linux Fundamentals Part 1
-- [x] TryHackMe | Linux Fundamentals Part 2
-- [x] TryHackMe | Linux Fundamentals Part 3
+- [ ] TryHackMe | Linux Fundamentals Part 1
+- [ ] TryHackMe | Linux Fundamentals Part 2
+- [ ] TryHackMe | Linux Fundamentals Part 3
 
 ## Windows Fundamentals [3/3]
 - [ ] TryHackMe | Windows Fundamentals 1
