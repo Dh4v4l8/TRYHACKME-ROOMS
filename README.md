@@ -13,7 +13,7 @@
 | **[Reconnaissance](#recon)**                      | **10**          |                           |
 | **[Scripting](#scripting)**                       | **8**           |                           |
 | **[Networking](#networking)**                     | **7**           |                           |
-| **[Tooling](#tooling)**                           | **17**          |                           |
+| **[Tooling](#tooling)**                          | **17**          |                           |
 | **[Crypto & Hashes](#crypto--hashes)**            | **5**           |                           |
 | **[Steganography](#steganography)**               | **6**           |                           |
 | **[Web](#web)**                                   | **23**          |                           |
@@ -36,7 +36,7 @@
 | **Total Rooms:**                                  | **= 379**       |                           |
 
 ## Intro Rooms
-- [ ] [TryHackMe | Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)
+- [x] [TryHackMe | Linux File System Analysis](https://tryhackme.com/r/room/linuxfilesystemanalysis)
 - [ ] [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
 - [ ] [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
 - [ ] [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
