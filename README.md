@@ -27,7 +27,7 @@
 | **[Active Directory](#active-directory)**         | **5**           |                           |
 | **[PCAP Analysis](#pcap-analysis)**               | **4**           |                           |
 | **[Buffer Overflow](#bufferoverflow)**            | **4**           |                           |
-| **[Easy CTF](#easy-ctf)**                         | **58**          |                           |
+| **[Easy CTF](#easy-ctf)**                         | **58**          | **1** |
 | **[Medium CTF](#medium-ctf)**                     | **73**          |                           |
 | **[Hard CTF](#hard-ctf)**                         | **38**          |                           |
 | **[Misc](#misc)**                                 | **35**          |                           |
