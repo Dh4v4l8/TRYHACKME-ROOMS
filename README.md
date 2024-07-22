@@ -514,55 +514,55 @@
 
 - [ ] [TryHackMe | Smag Grotto](https://tryhackme.com/room/smaggrotto)
 
-* [TryHackMe | Couch](https://tryhackme.com/room/couch)
+- [ ] [TryHackMe | Couch](https://tryhackme.com/room/couch)
 
-* [TryHackMe | Source](https://tryhackme.com/room/source)
+- [ ] [TryHackMe | Source](https://tryhackme.com/room/source)
 
-* [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
+- [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
 
-* [TryHackMe | Gotta Catch&#39;em All!](https://tryhackme.com/room/pokemon)
+- [ ] [TryHackMe | Gotta Catch&#39;em All!](https://tryhackme.com/room/pokemon)
 
-* [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
+- [ ] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 
-* [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
+- [ ] [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
-* [TryHackMe | kiba](https://tryhackme.com/room/kiba)
+- [ ] [TryHackMe | kiba](https://tryhackme.com/room/kiba)
 
-* [TryHackMe | Poster](https://tryhackme.com/room/poster)
+- [ ] [TryHackMe | Poster](https://tryhackme.com/room/poster)
 
-* [TryHackMe | Chocolate Factory](https://tryhackme.com/room/chocolatefactory)
+- [ ] [TryHackMe | Chocolate Factory](https://tryhackme.com/room/chocolatefactory)
 
-* [TryHackMe | Startup](https://tryhackme.com/room/startup)
+- [ ] [TryHackMe | Startup](https://tryhackme.com/room/startup)
 
-* [TryHackMe | Chill Hack](https://tryhackme.com/room/chillhack)
+- [ ] [TryHackMe | Chill Hack](https://tryhackme.com/room/chillhack)
 
-* [TryHackMe | ColddBox: Easy](https://tryhackme.com/room/colddboxeasy)
+- [ ] [TryHackMe | ColddBox: Easy](https://tryhackme.com/room/colddboxeasy)
 
-* [TryHackMe | GLITCH](https://tryhackme.com/room/glitch)
+- [ ] [TryHackMe | GLITCH](https://tryhackme.com/room/glitch)
 
-* [TryHackMe | All in One](https://tryhackme.com/room/allinonemj)
+- [ ] [TryHackMe | All in One](https://tryhackme.com/room/allinonemj)
 
-* [TryHackMe | Archangel](https://tryhackme.com/room/archangel)
+- [ ] [TryHackMe | Archangel](https://tryhackme.com/room/archangel)
 
-* [TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
+- [ ] [TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
 
-* [TryHackMe | Lunizz CTF](https://tryhackme.com/room/lunizzctfnd)
+- [ ] [TryHackMe | Lunizz CTF](https://tryhackme.com/room/lunizzctfnd)
 
-* [TryHackMe | Badbyte](https://tryhackme.com/room/badbyte)
+- [ ] [TryHackMe | Badbyte](https://tryhackme.com/room/badbyte)
 
-* [TryHackMe | Team](https://tryhackme.com/room/teamcw)
+- [ ] [TryHackMe | Team](https://tryhackme.com/room/teamcw)
 
-* [TryHackMe | VulnNet: Node](https://tryhackme.com/room/vulnnetnode)
+- [ ] [TryHackMe | VulnNet: Node](https://tryhackme.com/room/vulnnetnode)
 
-* [TryHackMe | VulnNet: Internal](https://tryhackme.com/room/vulnnetinternal)
+- [ ] [TryHackMe | VulnNet: Internal](https://tryhackme.com/room/vulnnetinternal)
 
-* [TryHackMe | Atlas](https://tryhackme.com/room/atlas)
+- [ ] [TryHackMe | Atlas](https://tryhackme.com/room/atlas)
 
-* [TryHackMe | VulnNet: Roasted](https://tryhackme.com/room/vulnnetroasted)
+- [ ] [TryHackMe | VulnNet: Roasted](https://tryhackme.com/room/vulnnetroasted)
 
-* [TryHackMe | Cat Pictures](https://tryhackme.com/room/catpictures)
+- [ ] [TryHackMe | Cat Pictures](https://tryhackme.com/room/catpictures)
 
-* [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
+- [ ] [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
 ## Medium CTF
 - [TryHackMe | Airplane](https://tryhackme.com/r/room/airplane)
